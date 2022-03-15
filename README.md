@@ -8,9 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with 
 - 💬 Ask me about ...
-- 📫 How to reach me: sahu.kalyani879@gmail.com
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
+- 📫 How to reach me: sahu.kalyani879@gmail.com 
 -->
 
 ## About Me
@@ -25,4 +23,6 @@ I am a Full-Stack Web Developer with a specialisation in MERN Stack, JavaScript,
 
  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--rJN6sdTw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tvbcrzn0z4lz201b7t3s.jpg"/>
 
-
+## My works
+Bewakoof : https://bewakoof-wheat.vercel.app/
+Fashion-Nova : https://fashion-nova-clone-beta.vercel.app/
