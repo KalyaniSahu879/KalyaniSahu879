@@ -16,51 +16,9 @@ I am a Full-Stack Web Developer with a specialisation in MERN Stack, JavaScript,
 
 ## Skills
 <span>
-<ul >
-                    <li >
-                        <a href="#">
-                        <i class="fab fa-html5"></i>
-                        
-                        </a>
-                        <p>HTML</p>
-                    </li>
-                    <li>
-                        <a href="#">
-                        <i class="fab fa-css3-alt"></i>
-                        </a>
-                        <p>CSS</p>
-                    </li>
-                    <li>
-                        <a href="#">
-                        <i class="fab fa-js"></i>
-                    </a>
-                    <p>JS</p>
-                    </li>
-                    <li>
-                        <a href="#">
-                        <i class="fab fa-react"></i>
-                        </a> 
-                        <p>React</p>
-                    </li>
-                    <li>
-                        <a href="#">
-                        <i class="fab fa-node"></i>
-                        </a>
-                        <p>NodeJS</p> 
-                    </li>
-                    <li>
-                        <a href="#">
-                        <i class="fas fa-database"></i>
-                        </a> 
-                        <p>MongoDB</p>
-                    </li>
-                    <li>
-                        <a href="#">
-                        <i class="fab fa-github-alt"></i>
-                        </a>
-                        <p>GitHub</p> 
-                    </li>
-                </ul>
+  <ul><li><i class="fab fa-html5"></i></li></ul>
+    
+     
 
 ## My works
 Bewakoof : https://bewakoof-wheat.vercel.app/
