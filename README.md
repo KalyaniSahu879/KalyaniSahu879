@@ -16,7 +16,8 @@ I am a Full-Stack Web Developer with a specialisation in MERN Stack, JavaScript,
 
 ## Skills
 <span>
-  <ul><li><i class="fab fa-html5"></i></li></ul>
+  <img src="https://cdn-icons-png.flaticon.com/512/888/888859.png" />
+ </span>
     
      
 
